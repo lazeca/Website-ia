@@ -1,2 +1,2 @@
-# Website-ia
-Make website with AI - i'm a beginner, please be kind with my job ;)
+# Project about code - ai - agent - automatisation
+I'm here to learn
